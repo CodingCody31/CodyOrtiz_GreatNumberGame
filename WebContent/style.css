@@ -1,0 +1,23 @@
+.correct {
+	width:300px;
+	height: 200px;
+	padding: 50px;
+	background-color: green;
+	display: inline-block;
+}
+
+.low {
+	width:300px;
+	height: 200px;
+	padding: 50px;
+	background-color: red;
+	display: inline-block;
+}
+
+.high {
+	width:300px;
+	height: 200px;
+	padding: 50px;
+	background-color: red;
+	display: inline-block;
+}
